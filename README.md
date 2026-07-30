@@ -193,9 +193,3 @@ Example response:
 ## Documentation
 
 Project presentation slides are available in [`docs/`](./docs).
-
----
-
-## License
-
-MIT licence
