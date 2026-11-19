@@ -184,8 +184,6 @@ Example response:
 ---
 
 ## Contributors
-
-- [Harish Karthikeyan C](https://github.com/Harish-aiml)
 - [Manivel R](https://github.com/manivelx)
 
 ---
