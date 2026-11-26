@@ -124,8 +124,8 @@ class Settings:
 ## Getting Started
 
 ```bash
-git clone https://github.com/manivel-cyber-ai/adaptshield.git
-cd adaptshield
+git clone https://github.com/manivelx/AdaptShield.git
+cd AdaptShield
 python -m venv .venv
 source .venv/bin/activate
 pip install -e ".[dev]"
